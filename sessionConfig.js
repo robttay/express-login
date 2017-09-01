@@ -1,6 +1,6 @@
 //
 module.exports = {
-  secret: "Lemon Fuscia Camino",
+  secret: "***********",
   resave: true,
   saveUninitialized: true,
   cookie: { maxAge: 900000 }
